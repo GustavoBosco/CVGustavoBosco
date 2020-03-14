@@ -2,7 +2,12 @@ body{
     background: #000;
     color: rgb(51, 255, 0);
     font-family: Arial;
+
 }
 a{
-    color:rgb(51, 255, 0);
+    color: rgb(51, 255, 0);
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(0, 247, 255);
 }
